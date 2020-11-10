@@ -43,3 +43,7 @@ App can use Bluetooth OBEX protocol for file transfer through the D-Bus BlueZ in
 - fix the inbound memory issue
 - add logging
 - add test for the outbound/inbound
+
+
+## Windows
+- vcruntime140_1.dll VC++ 2019 runtime dll.
